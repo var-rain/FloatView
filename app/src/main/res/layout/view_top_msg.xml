@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_top_msg_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="#ff9f9f"
+        android:gravity="center"
+        android:text="@string/view_top_msg_tips"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+</LinearLayout>

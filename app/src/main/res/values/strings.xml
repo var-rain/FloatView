@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">自定义应用内全局消息弹窗</string>
+    <string name="view_top_msg_tips">自定义应用内全局消息提示</string>
+    <string name="but_show_tips">弹出全局提示框</string>
+</resources>
